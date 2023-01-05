@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on clearance system and my portfolio project 
+I'm currently working on clearance system
 
 
 ## 🌐 Socials:
