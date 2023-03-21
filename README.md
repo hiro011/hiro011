@@ -31,8 +31,15 @@ I'm currently working on clearance system
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://meme-api.com/gimme)
 
+<script> hello</script>
+fetch('https://meme-api.com/gimme')
+  .then(r=>r.json())
+  .then(json=>{
+    console.log( json.url )
+    <img src=(json.url) width="512px"/>
+  })
+  
 ### 😂 Random Dev Meme
 <img src="https://meme-api.com/gimme" width="512px"/>
 
