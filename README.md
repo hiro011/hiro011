@@ -31,6 +31,7 @@ I'm currently working on clearance system
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://meme-api.com/gimme)
 
 ### 😂 Random Dev Meme
 <img src="https://meme-api.com/gimme" width="512px"/>
