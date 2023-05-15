@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on learning different frameworks by doing different projects
+I'm currently working on learning different technologies and  frameworks by doing projects
 
 
 ## 🌐 Socials:
