@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on clearance system
+I'm currently working on learning different frameworks by doing different projects
 
 
 ## 🌐 Socials:
