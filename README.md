@@ -43,7 +43,6 @@ I enjoy building practical projects while strengthening my fundamentals in softw
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiro011&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro011&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiro011&theme=dark)
 
 ---
 
