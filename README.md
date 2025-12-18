@@ -27,8 +27,6 @@ I enjoy building practical projects while strengthening my fundamentals in softw
 **Web & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[React Official Docs](https://react.dev)
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,6 +45,9 @@ I enjoy building practical projects while strengthening my fundamentals in softw
 ![GitHub Streak](https://streak-stats.demolab.com?user=hiro011&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro011&layout=compact&theme=dark)
 
+![](https://github-readme-stats.vercel.app/api?username=hiro011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=hiro011&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### 😂 Random Dev Meme
