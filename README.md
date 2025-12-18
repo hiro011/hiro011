@@ -42,16 +42,13 @@ I enjoy building practical projects while strengthening my fundamentals in softw
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiro011&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=hiro011&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro011&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiro011&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=hiro011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiro011&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-### 😂 Random Dev Meme
-<img src="https://github.com/rodrigorgtic/dev-meme/blob/master/meme.jpg?raw=true" width="450"/>
+### 😄 Random Dev Humor
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ---
 
